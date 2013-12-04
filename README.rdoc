@@ -3,22 +3,22 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
+Thi234ngs you may want to cover:
+234
+* R234uby version
+234
+* Sy324stem dependencies
+2342
+* Confi234guration
+asasasa
 * Database creation
-
+asasas
 * Database initialization
-
+asasasa
 * How to run the test suite
-
+asasasa
 * Services (job queues, cache servers, search engines, etc.)
-
+asasas
 * Deployment instructions
 
 * ...
